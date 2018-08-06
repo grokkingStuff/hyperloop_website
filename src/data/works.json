@@ -1,0 +1,168 @@
+[{
+  "title": "Agata - Home Assistant",
+  "category": [ "design", "code" ],
+  "client": "Agata",
+  "year": "2017",
+  "featured": true,
+  "url": "https://www.behance.net/gallery/62481525/Agata-Home-Automation",
+  "image": {
+    "src": "/images/works/agata/agata-home-assistant.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/agata/agata-home-assistant-square.jpg 1x",
+        "/images/works/agata/agata-home-assistant-square-2x.jpg 2x",
+        "/images/works/agata/agata-home-assistant-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/agata/agata-home-assistant.jpg 1x",
+        "/images/works/agata/agata-home-assistant-2x.jpg 2x",
+        "/images/works/agata/agata-home-assistant-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "App Quality",
+  "category": [ "design" ],
+  "collaborators": [ "Incode" ],
+  "client": "App Quality",
+  "year": "2017",
+  "featured": true,
+  "image": {
+    "src": "/images/works/app-quality/app-quality-website.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/app-quality/app-quality-website-square.jpg 1x",
+        "/images/works/app-quality/app-quality-website-square-2x.jpg 2x",
+        "/images/works/app-quality/app-quality-website-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/app-quality/app-quality-website.jpg 1x",
+        "/images/works/app-quality/app-quality-website-2x.jpg 2x",
+        "/images/works/app-quality/app-quality-website-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Enco Website",
+  "category": [ "design" ],
+  "client": "Net Magazine",
+  "year": "2016",
+  "featured": true,
+  "url": "https://dribbble.com/shots/3142361-Enco-Extreme-climbing-centers",
+  "image": {
+    "src": "/images/works/enco/enco-website.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/enco/enco-website-square.jpg 1x",
+        "/images/works/enco/enco-website-square-2x.jpg 2x",
+        "/images/works/enco/enco-website-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/enco/enco-website.jpg 1x",
+        "/images/works/enco/enco-website-2x.jpg 2x",
+        "/images/works/enco/enco-website-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Kenzai's Mobile Apps",
+  "category": [ "design" ],
+  "client": "Kenzai Inc.",
+  "year": "2016",
+  "featured": true,
+  "image": {
+    "src": "/images/works/kenzai/kenzai-mobile-apps.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/kenzai/kenzai-mobile-apps-square.jpg 1x",
+        "/images/works/kenzai/kenzai-mobile-apps-square-2x.jpg 2x",
+        "/images/works/kenzai/kenzai-mobile-apps-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/kenzai/kenzai-mobile-apps.jpg 1x",
+        "/images/works/kenzai/kenzai-mobile-apps-2x.jpg 2x",
+        "/images/works/kenzai/kenzai-mobile-apps-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Never",
+  "category": [ "design" ],
+  "client": "Fifty Finance",
+  "year": "25 June 2017",
+  "featured": false
+},{
+  "title": "Gonna",
+  "category": [ "design", "development" ],
+  "client": "Savi srl",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Give",
+  "category": [ "design", "development" ],
+  "client": "FreeJourn",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "You",
+  "category": [ "design" ],
+  "client": "Kenzai Inc.",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Up",
+  "category": [ "design", "code" ],
+  "client": "MailUp",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "Never",
+  "category": [ "design", "code" ],
+  "client": "CREW Cremonesi",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Gonna",
+  "category": [ "design", "code" ],
+  "client": "Manfrotto",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Let",
+  "category": [ "code" ],
+  "client": "Beast Technologies",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "You",
+  "category": [ "design", "code" ],
+  "client": "Isolconfort",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Down",
+  "category": [ "design", "code" ],
+  "client": "CRIT",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Never",
+  "category": [ "design", "code" ],
+  "client": "La Pagoda",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Gonna",
+  "category": [ "design", "code" ],
+  "client": "One Farm Design",
+  "year": "2014",
+  "featured": false
+}]
